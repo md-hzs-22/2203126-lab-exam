@@ -1,7 +1,7 @@
 #!/bin/bash
 
 n=$*
-o=$1 #Variables for positional arguments
+o=$1 #Denoting variables for positional arguments
 p=$2
 q=$3
 
